@@ -1,6 +1,6 @@
 import random
 n = random.randrange(1,100)
-print(n)
+#print(n)
 num = int(input("Enter your number : "))
 #print(num)
 while num != n:
